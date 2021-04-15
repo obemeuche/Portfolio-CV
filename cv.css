@@ -1,0 +1,125 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 95%;
+    padding: 85px 85px 85px 85px;
+    line-height: 250%;
+    align-items: center;
+}
+
+h1 {
+    padding-bottom: 15px;
+}
+
+.intro {
+   text-align: center;
+   font-size: 25px;
+}
+
+hr {
+    border-width: 0.1px;
+    border-color: black;
+}
+
+.career {
+    font-size: 20px;
+    padding: 5px 0 5px 0;
+}
+
+.certifications {
+    font-size: 20px;
+    padding: 10px 0 10px 0;
+}
+
+.certifications .fd{
+    position: relative;
+    left: 41%;
+}
+
+.certifications .gm{
+    position: relative;
+    left: 29%;
+}
+
+.certifications .pmp{
+    position: relative;
+    left: 35%;
+}
+
+.certifications .hse{
+    position: relative;
+    left: 32.5%;
+}
+
+.certifications .eia{
+    position: relative;
+    left: 40.8%;
+}
+
+.certifications .nysc{
+    position: relative;
+    left: 45.8%;
+}
+
+.certifications .qm{
+    position: relative;
+    left: 49.8%;
+}
+
+.competencies {
+    font-size: 20px;
+    padding: 10px 0 10px 0;
+}
+
+.experience {
+    font-size: 20px;
+    padding: 10px 0 10px 0;
+}
+
+.experience p{
+    font-size: 20px;
+    padding: 10px 0 10px 0;
+}
+
+.experience .frontend{
+    position: relative;
+    left: 26%;
+}
+
+.experience .site{
+    position: relative;
+    left: 29%;
+}
+
+h5 {
+    font-size: 18px;
+}
+
+.edu {
+    font-size: 20px;
+    padding: 10px 0 10px 0;  
+}
+
+.edu .first-date {
+    position: relative;
+    left: 47%;
+}
+
+.edu .second-date {
+    position: relative;
+    left: 42%;
+}
+
+.lead {
+    font-size: 20px;
+    padding: 10px 0 10px 0;
+}
+
+footer {
+    font-size: 20px;
+    padding: 30px 0 10px 0;
+}
